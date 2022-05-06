@@ -15,12 +15,13 @@ Una vez iniciado nuestra primera aproximación al periodismo de datos tocaba un 
 La explicación de la práctica 3 está recogida [aquí](practica-3.md).
 A continuación, los notebooks realizados en Jupyter.
 
--[Prueba de Python en ipynb](prueba-python.ipynb)
--[Prueba de Pyhton en html](prueba-python.html)
+- [Prueba de Python en ipynb](prueba-python.ipynb)
+- [Prueba de Pyhton en html](prueba-python.html)
 - [API COVID 19 Pandas en ipynb](python-api-covid19-pandas.ipynb)
 - [API COVID 19 Pandas en html](python-api-covid19-pandas.html)
 - [API Pandas Folium en ipynb](api-pandas-folium.ipynb)
 - [API Pandas Folium en html](api-pandas-folium.html)
+
 
 ### Más documentos
 - [Metodología: documentación de cómo se ha realizado la última práctica de la asignatura](metodologias.md)
