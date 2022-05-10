@@ -9,10 +9,10 @@ Esta práctica, como se puede comprobar, constó de dos partes. Primero se reali
 ### Práctica 2
 - [Noticia sobre las potenciales nucleares durante la Guerra de Ucrania](practica-2.md)
 
-Una vez iniciado nuestra primera aproximación al periodismo de datos tocaba un proyecto un poco más grande: **realizar una noticia** basada en una noticia o un conjunto de datos publicados, como si fuera parte de nuestro propio proyecto. En mi caso, y probablemente la mayoría de mis compañeras, opté por realizar una noticia sobre la recién estallada guerra en Ucrania. Seleccioné para ello un artículo en el think-tank de divulgación geopolítica [El Orden Mundial](https://elordenmundial.com/mapas-y-graficos/armas-nucleares-mundo/), donde tenían un gráfico explicativo de los países con mayor potencia nuclear y lo peligrosa que resultaba su implicación en un conflicto bélico en Europa a partir de los datos del [SIPRI](https://sipri.org/media/press-release/2021/global-nuclear-arsenals-grow-states-continue-modernize-new-sipri-yearbook-out-now), The Stockholm International Peace Research Institute. 
+Una vez iniciado nuestra primera aproximación al periodismo de datos tocaba un proyecto un poco más grande: **realizar una noticia** basada en una noticia o un conjunto de datos publicados, como si fuera parte de nuestro propio proyecto. En mi caso, y probablemente la mayoría de mis compañeras, opté por realizar una noticia sobre la recién estallada guerra en Ucrania. Seleccioné para ello un artículo en el think-tank de divulgación geopolítica [*El Orden Mundial*](https://elordenmundial.com/mapas-y-graficos/armas-nucleares-mundo/), donde tenían un gráfico explicativo de los países con mayor potencia nuclear y lo peligrosa que resultaba su implicación en un conflicto bélico en Europa a partir de los datos del [SIPRI](https://sipri.org/media/press-release/2021/global-nuclear-arsenals-grow-states-continue-modernize-new-sipri-yearbook-out-now), *The Stockholm International Peace Research Institute*. 
 
 ### Práctica 3
-La explicación de la práctica 3 está recogida [aquí](practica-3.md).
+La explicación de la práctica 3 y sus consiguientes documentos está recogida [aquí](practica-3.md).
 A continuación, los notebooks realizados en Jupyter.
 
 - [Prueba de Python en ipynb](prueba-python.ipynb)
