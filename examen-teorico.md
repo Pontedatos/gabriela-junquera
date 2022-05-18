@@ -4,7 +4,7 @@
 ## Preguntas obligatorias
 1. **¿Quién es Philip Meyer?**
 
-Philip Meyer es un periodista muy relevante en el periodismo americano que publicó un libro que serviría de precedente para lo que hoy conocemos como el periodismo de datos moderno. Su libro se titula Precision Journalism: A Reporter's Introduction to Social Science Methods y se publicó en 1973. 
+Philip Meyer es un periodista muy relevante en el periodismo americano que publicó un libro que serviría de precedente para lo que hoy conocemos como el periodismo de datos moderno. Su libro se titula *Precision Journalism: A Reporter's Introduction to Social Science Methods* y se publicó en 1973. 
 
 2. **¿Quién fue Florence Nightingale?**
 
@@ -14,11 +14,11 @@ Florence Nightingale fue una enfermera muy reconocida a finales del s. XIX por s
 
 1. **¿Qué medio inglés es fundamentall en el periodismo y la visualización de datos?**
 
-El medio [The Guardian](https://www.theguardian.com/international) es el más pionero en lo que a periodismo de datos se refiere. Un ejemplo sería [esta visualización](https://www.theguardian.com/cities/2019/mar/21/500-years-in-59-seconds-the-race-to-be-the-worlds-largest-city) con gráficos animados que hace muy atractiva y fácil de entender información muy compleja por el volumen de datos utilizado. 
+El medio [*The Guardian*](https://www.theguardian.com/international) es el más pionero en lo que a periodismo de datos se refiere. Un ejemplo sería [esta visualización](https://www.theguardian.com/cities/2019/mar/21/500-years-in-59-seconds-the-race-to-be-the-worlds-largest-city) con gráficos animados que hace muy atractiva y fácil de entender información muy compleja por el volumen de datos utilizado. 
 
 2. **¿De dónde viene el nombre de Jupyter?**
 
- El nombre del proyecto Jupyter, un proyecto de software de código abierto, es una juego lingüístico con los principales lenguajes de programación soportados por Jupyter: Julia, Python y R. También supone un pequeño homenaje a Galileo y sus cuadernos, gracias a los cuales sabemos de los satélites de Júpiter.
+ El nombre del proyecto *Jupyter*, un proyecto de software de código abierto, es una juego lingüístico con los principales lenguajes de programación soportados por *Jupyte*r: Julia, Python y R. También supone un pequeño homenaje a Galileo y sus cuadernos, gracias a los cuales sabemos de los satélites de Júpiter.
 
 3. **¿Qué es Internet**
  
@@ -26,7 +26,7 @@ Internet es la red de redes, es decir, una red de computadoras que están conect
 
 4. **¿Qué es la Web?**
 
-La web es una colección de páginas que trabaja sobre la red de computadoras de internet. 
+La Web es una colección de páginas que trabaja sobre la red de computadoras de internet. 
 
 5. **¿Qué significa URL?** 
 
