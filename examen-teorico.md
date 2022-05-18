@@ -2,11 +2,11 @@
 ### Alumna: Gabriela Junquera Prat
 
 ## Preguntas obligatorias
-1. ¿Quién es Philip Meyer?
+1. **¿Quién es Philip Meyer?**
 
 Philip Meyer es un periodista muy relevante en el periodismo americano que publicó un libro que serviría de precedente para lo que hoy conocemos como el periodismo de datos moderno. Su libro se titula Precision Journalism: A Reporter's Introduction to Social Science Methods y se publicó en 1973. 
 
-2. ¿Quién fue Florence Nightingale?
+2. **¿Quién fue Florence Nightingale?**
 
 Florence Nightingale fue una enfermera muy reconocida a finales del s. XIX por sus aportaciones al mundo de la enfermería y también por sus conocimientos en estadística que aplicaba a su profesión. 
 
